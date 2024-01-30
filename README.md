@@ -69,9 +69,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here]((https://65b8f773be077fea16945c3b--theo-code-qr.netlify.app/))
+- Website - [theo-code-qr.netlify.app]((https://65b8f773be077fea16945c3b--theo-code-qr.netlify.app/))
 - Frontend Mentor - [@Theo-ijoma](https://www.frontendmentor.io/profile/Theo-ijoma)
-- Instagram - [@_theoo_fr_((https://www.instagram.com/_theoo_fr_/))
+- Instagram - [@_theoo_fr_]((https://www.instagram.com/_theoo_fr_/))
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
